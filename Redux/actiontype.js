@@ -1,0 +1,4 @@
+export const ADDITION = 'ADDITION';
+export const SUBTRACTION = 'SUBTRACTION';
+export const TODOLIST = 'TODOLIST';
+export const SHEDULEVISIBLE= 'SHEDULEVISIBLE';
